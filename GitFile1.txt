@@ -1,2 +1,4 @@
 Hello,
 !!!!!!This is my first GIT FILE!!!!!!!
+
+"I just added this line to the file"
